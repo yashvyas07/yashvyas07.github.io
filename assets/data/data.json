@@ -1,0 +1,246 @@
+[
+  {
+    "id": 1,
+    "title": "What do you like to do?",
+    "bg": "#ffffff",
+    "type":"options",
+    "options":[
+      {
+        "id": 3,
+        "image": "",
+        "label": "Sip & Socialize"
+      },
+      {
+        "id": 2,
+        "image": "",
+        "label": "Learn Something New"
+      },
+      {
+        "id": 3,
+        "image": "",
+        "label": "Get Free Product"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Do you like to be hands on?",
+    "bg": "#ffffff",
+    "type":"options",
+    "options":[
+      {
+        "id": 6,
+        "image": "",
+        "label": "Yes"
+      },
+      {
+        "id": 3,
+        "image": "",
+        "label": "No"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Do you like to host parties?",
+    "bg": "#ffffff",
+    "type":"options",
+    "options":[
+      {
+        "id": 7,
+        "image": "",
+        "label": "Yes"
+      },
+      {
+        "id": 4,
+        "image": "",
+        "label": "No"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Do you have Facebook?",
+    "bg": "#ffffff",
+    "type":"options",
+    "options":[
+      {
+        "id": 8,
+        "image": "",
+        "label": "Yes"
+      },
+      {
+        "id": 5,
+        "image": "",
+        "label": "No"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title":"",
+    "bg": "#ffffff",
+    "type":"final",
+    "options":[
+      {
+        "image": "",
+        "label": "Catalog party"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "title":"",
+    "bg": "#ffffff",
+    "type":"final",
+    "options":[
+      {
+        "image": "",
+        "label": "Main course"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Do you like to be hands on?",
+    "bg": "#ffffff",
+    "type":"options",
+    "options":[
+      {
+        "id": 9,
+        "image": "",
+        "label": "Yes"
+      },
+      {
+        "id": 15,
+        "image": "",
+        "label": "No"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "title":"",
+    "bg": "#ffffff",
+    "type":"final",
+    "options":[
+      {
+        "image": "",
+        "label": "Virtual party"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Do you have a theme in mind?",
+    "bg": "#ffffff",
+    "type":"options",
+    "options":[
+      {
+        "id": 11,
+        "image": "",
+        "label": "Yes"
+      },
+      {
+        "id": 12,
+        "image": "",
+        "label": "No"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "title":"",
+    "bg": "#ffffff",
+    "type":"final",
+    "options":[
+      {
+        "image": "",
+        "label": "Cakes"
+      },
+      {
+        "image": "",
+        "label": "Bake to gift"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "title":"",
+    "bg": "#ffffff",
+    "type":"final",
+    "options":[
+      {
+        "image": "",
+        "label": "Station style"
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Pick one",
+    "bg": "#ffffff",
+    "type":"options",
+    "options":[
+      {
+        "id": 14,
+        "image": "",
+        "label": "Healthy"
+      },
+      {
+        "id": 13,
+        "image": "",
+        "label": "Cooking for family"
+      },
+      {
+        "id": 10,
+        "image": "",
+        "label": "Sweets"
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "title":"",
+    "bg": "#ffffff",
+    "type":"final",
+    "options":[
+      {
+        "image": "",
+        "label": "Cooking with kids"
+      },
+      {
+        "image": "",
+        "label": "One pot meals"
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "title":"",
+    "bg": "#ffffff",
+    "type":"final",
+    "options":[
+      {
+        "image": "",
+        "label": "Make and take mason jar"
+      },
+      {
+        "image": "",
+        "label": "Farmer's market fresh"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "title":"",
+    "bg": "#ffffff",
+    "type":"final",
+    "options":[
+      {
+        "image": "",
+        "label": "Demonstration cooking party"
+      }
+    ]
+  }
+]
