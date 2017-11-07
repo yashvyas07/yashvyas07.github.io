@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["MaterialIcons-Regular.012cf6a10129e2275d79.woff","012cf6a10129e2275d79d6adac7f3b02"],["MaterialIcons-Regular.570eb83859dc23dd0eec.woff2","570eb83859dc23dd0eec423a49e147fe"],["MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf","a37b0c01c0baf1888ca812cc0508f6e2"],["MaterialIcons-Regular.e79bfd88537def476913.eot","e79bfd88537def476913f3ed52f4f4b3"],["antonio-bold.07cba0f622053834d1c6.ttf","07cba0f622053834d1c6f60165b152db"],["antonio-bold.cee7b01b002418db2517.woff2","cee7b01b002418db25170c2c20cb4373"],["antonio-bold.eb8e8cd4a5b9f426571b.woff","eb8e8cd4a5b9f426571bd560c0f9444a"],["antonio-light.4b30712eb069c91087ca.woff2","4b30712eb069c91087ca206347327e74"],["antonio-light.6dea71fbc99d5b5e8229.woff","6dea71fbc99d5b5e8229f05abba949cb"],["antonio-light.ce00465818e439d2266b.ttf","ce00465818e439d2266ba669449e1f74"],["assets/data/data.json","d3e34f18799e3194184bc0808331f397"],["assets/fonts/Antonio-Bold.ttf","2a8a6af373531a3500e240604935b8dc"],["assets/fonts/Antonio-Light.ttf","975aacd71c6910b732c678b04b39ed86"],["assets/fonts/Antonio-Regular.ttf","25cd38a8b03ff96775c2e00d31052010"],["assets/fonts/antonio-regular-webfont.woff","61b324b4c6270d490cf887f8cc0f64b3"],["assets/images/Pampered_Pal_Logo-2.png","c4ba6bb568bfb304bfd92d324616f552"],["assets/images/Pampered_Pal_Logo-3.png","631cb2a9192466cf8761a6030acd0dc1"],["assets/images/Pampered_Pal_Logo.png","d136a54d85412e848d8ff566f7eedcfc"],["assets/images/img1-free-product.jpg","6ece0c77ca4f662ec132bcda97c81d4f"],["assets/images/img1-learn-something-new.jpg","03b645095715818878a9716f3e02ee8a"],["assets/images/img1-sip-socialize.jpg","fc6b21d9a77ec211451fa98332b18dfd"],["assets/images/img10-edible-gifts.jpg","765b05b4a95b238e16bddcf7d6faabea"],["assets/images/img10-piece-of-cake.jpg","460d3f853c5216f1a4374d8c6ca25169"],["assets/images/img12-family.jpg","38ac7d1acc19d716f0bd19c26017a2fe"],["assets/images/img12-healthy.jpg","ca8fc63b9ac9288ee213fd16a630fd8e"],["assets/images/img12-sweets.jpg","44c87b606607a351fc89dfed388242f1"],["assets/images/img13-kids.jpg","d576bfe5c6ce6fe18b3cb80653571ed4"],["assets/images/img13-one-pot-meals.jpg","aca83b546c4c635b2c3e5f2c97a90898"],["assets/images/img14-farmers-market.jpg","cf94750618a5e29faaf5abde2ee5bb8c"],["assets/images/img14-make-take.jpg","4b44c3bc6ccb888b70d530c7a204f51e"],["assets/images/imgcatalog-party.jpg","f3e774e65ad7cda26e7544b1626ab011"],["assets/images/imgcooking-demonstration.jpg","7072275d814125e0c5be86cc7edc1b05"],["assets/images/imgmain-course.jpg","0d3652bf46c905c200fde2afd8babc7f"],["assets/images/imgno.png","387b763c947f72df196f54b6c03318eb"],["assets/images/imgstation-style.jpg","94bf9479b1228ed40088cd8756f1d0cd"],["assets/images/imgvirtual-party.jpg","55f668788fecf93f87ca66f39a180f52"],["assets/images/imgyes.png","311baa86f39ac2fdf4f447063b3931ad"],["assets/images/pampered-pal-144x144.png","51f9713ff11bbdca30afdaeb23a54086"],["assets/images/pampered-pal-192x192.png","6e0fd143fafaaf66556a89041de2c075"],["assets/images/pampered-pal-32x32.png","69bd3fb7d28b700424c9e6a92f8c2477"],["assets/images/pampered-pal-42x42.png","c236a0351d865d8a14301bdcee6c6e46"],["assets/images/pampered-pal-48x48.png","cd8fd6dc52af6babbc3c9de0277f473c"],["assets/images/pampered-pal-512x512.png","0cc4deabc34b65b28678020435e4cf9c"],["assets/images/pampered-pal-72x72.png","4ba1e6b1253498cf5022302e6a9fa73b"],["assets/images/pampered-pal-96x96.png","a10d973d7b00f2738808d17292f2945c"],["assets/images/pampered-pal-favicon.png","2811cace17ee6845c0190a60509294ad"],["assets/images/pampered-pal.svg","6ec13fbb570839beca5fa71289cf2390"],["assets/manifest.json","09ae7d298dcb63d2cfc937bc300339fa"],["index.html","dedfb6ec1264d7c6674bcdeda558e16a"],["inline.c1f52d6ea6df03ec4b4f.bundle.js","32d25a762b343d6d33e9d1eb1d67d46a"],["main.fc35c26b33490a613325.bundle.js","a2be15b2b84cce32623222e0a23e0376"],["polyfills.d0e1f424b0013ef51868.bundle.js","4b0d73bc98f8517adfdf9763ae30623a"],["styles.126f97228aca8cd0221f.bundle.css","126f97228aca8cd0221f12c16d3c0cf6"],["vendor.2327718760af0b2d0082.bundle.js","74df2a9a50f485f1b7315545498e0ef7"]];
+var precacheConfig = [["MaterialIcons-Regular.012cf6a10129e2275d79.woff","012cf6a10129e2275d79d6adac7f3b02"],["MaterialIcons-Regular.570eb83859dc23dd0eec.woff2","570eb83859dc23dd0eec423a49e147fe"],["MaterialIcons-Regular.a37b0c01c0baf1888ca8.ttf","a37b0c01c0baf1888ca812cc0508f6e2"],["MaterialIcons-Regular.e79bfd88537def476913.eot","e79bfd88537def476913f3ed52f4f4b3"],["antonio-bold.07cba0f622053834d1c6.ttf","07cba0f622053834d1c6f60165b152db"],["antonio-bold.cee7b01b002418db2517.woff2","cee7b01b002418db25170c2c20cb4373"],["antonio-bold.eb8e8cd4a5b9f426571b.woff","eb8e8cd4a5b9f426571bd560c0f9444a"],["antonio-light.4b30712eb069c91087ca.woff2","4b30712eb069c91087ca206347327e74"],["antonio-light.6dea71fbc99d5b5e8229.woff","6dea71fbc99d5b5e8229f05abba949cb"],["antonio-light.ce00465818e439d2266b.ttf","ce00465818e439d2266ba669449e1f74"],["assets/data/data.json","d3e34f18799e3194184bc0808331f397"],["assets/fonts/Antonio-Bold.ttf","2a8a6af373531a3500e240604935b8dc"],["assets/fonts/Antonio-Light.ttf","975aacd71c6910b732c678b04b39ed86"],["assets/fonts/Antonio-Regular.ttf","25cd38a8b03ff96775c2e00d31052010"],["assets/fonts/antonio-regular-webfont.woff","61b324b4c6270d490cf887f8cc0f64b3"],["assets/images/Pampered_Pal_Logo-2.png","c4ba6bb568bfb304bfd92d324616f552"],["assets/images/Pampered_Pal_Logo-3.png","631cb2a9192466cf8761a6030acd0dc1"],["assets/images/Pampered_Pal_Logo.png","d136a54d85412e848d8ff566f7eedcfc"],["assets/images/img1-free-product.jpg","6ece0c77ca4f662ec132bcda97c81d4f"],["assets/images/img1-learn-something-new.jpg","03b645095715818878a9716f3e02ee8a"],["assets/images/img1-sip-socialize.jpg","fc6b21d9a77ec211451fa98332b18dfd"],["assets/images/img10-edible-gifts.jpg","765b05b4a95b238e16bddcf7d6faabea"],["assets/images/img10-piece-of-cake.jpg","460d3f853c5216f1a4374d8c6ca25169"],["assets/images/img12-family.jpg","38ac7d1acc19d716f0bd19c26017a2fe"],["assets/images/img12-healthy.jpg","ca8fc63b9ac9288ee213fd16a630fd8e"],["assets/images/img12-sweets.jpg","44c87b606607a351fc89dfed388242f1"],["assets/images/img13-kids.jpg","d576bfe5c6ce6fe18b3cb80653571ed4"],["assets/images/img13-one-pot-meals.jpg","aca83b546c4c635b2c3e5f2c97a90898"],["assets/images/img14-farmers-market.jpg","cf94750618a5e29faaf5abde2ee5bb8c"],["assets/images/img14-make-take.jpg","4b44c3bc6ccb888b70d530c7a204f51e"],["assets/images/imgcatalog-party.jpg","f3e774e65ad7cda26e7544b1626ab011"],["assets/images/imgcooking-demonstration.jpg","7072275d814125e0c5be86cc7edc1b05"],["assets/images/imgmain-course.jpg","0d3652bf46c905c200fde2afd8babc7f"],["assets/images/imgno.png","387b763c947f72df196f54b6c03318eb"],["assets/images/imgstation-style.jpg","94bf9479b1228ed40088cd8756f1d0cd"],["assets/images/imgvirtual-party.jpg","55f668788fecf93f87ca66f39a180f52"],["assets/images/imgyes.png","311baa86f39ac2fdf4f447063b3931ad"],["assets/images/pampered-pal-144x144.png","51f9713ff11bbdca30afdaeb23a54086"],["assets/images/pampered-pal-192x192.png","6e0fd143fafaaf66556a89041de2c075"],["assets/images/pampered-pal-32x32.png","69bd3fb7d28b700424c9e6a92f8c2477"],["assets/images/pampered-pal-42x42.png","c236a0351d865d8a14301bdcee6c6e46"],["assets/images/pampered-pal-48x48.png","cd8fd6dc52af6babbc3c9de0277f473c"],["assets/images/pampered-pal-512x512.png","0cc4deabc34b65b28678020435e4cf9c"],["assets/images/pampered-pal-72x72.png","4ba1e6b1253498cf5022302e6a9fa73b"],["assets/images/pampered-pal-96x96.png","a10d973d7b00f2738808d17292f2945c"],["assets/images/pampered-pal-favicon.png","2811cace17ee6845c0190a60509294ad"],["assets/images/pampered-pal.svg","6ec13fbb570839beca5fa71289cf2390"],["assets/manifest.json","09ae7d298dcb63d2cfc937bc300339fa"],["index.html","de02337d15fc8feca4221c3667710751"],["inline.f8ad5ea1aa4e34702e9b.bundle.js","17c3b1d3c4315bf4b5f2c2f29e9dc579"],["main.aa0be6581c9f2cf35097.bundle.js","4cdc904762ce5b76e94f1047db7764cd"],["polyfills.d0e1f424b0013ef51868.bundle.js","4b0d73bc98f8517adfdf9763ae30623a"],["styles.126f97228aca8cd0221f.bundle.css","126f97228aca8cd0221f12c16d3c0cf6"],["vendor.1c28bdcae6351e4be8d5.bundle.js","ec2eb328a7ec6f48b708f2409033bc7f"]];
 var cacheName = 'sw-precache-v3-sw-precache-' + (self.registration ? self.registration.scope : '');
 
 
@@ -266,3 +266,56 @@ self.addEventListener('fetch', function(event) {
 
 
 
+
+self.addEventListener('fetch', function(event) {
+
+  if (event.request.url.includes('/timer-notification')) {
+    var url = new URL(event.request.url);
+    var title = url.searchParams.get("title");
+    setTimeout(function(){
+      self.registration.showNotification('Pampered Pal', {
+        icon: 'assets/images/pampered-pal-favicon.png',
+        body: title + ' completed!'
+      });
+    }, 0);
+    event.respondWith(new Response("Test response"));
+  }
+});
+
+self.addEventListener('notificationclick', function(event) {
+  event.notification.close();
+  var url = event.currentTarget.location.origin;
+  event.waitUntil(
+    clients.matchAll({
+      type: 'window'
+    })
+      .then(function(windowClients) {
+        for (var i = 0; i < windowClients.length; i++) {
+          var client = windowClients[i];
+          if (client.url.includes(url) && 'focus' in client) {
+            return client.focus();
+          }
+        }
+      })
+  );
+});
+
+// Register event listener for the 'push' event.
+self.addEventListener('push', function(event) {
+  // Retrieve the textual payload from event.data (a PushMessageData object).
+  // Other formats are supported (ArrayBuffer, Blob, JSON), check out the documentation
+  // on https://developer.mozilla.org/en-US/docs/Web/API/PushMessageData.
+  // var payload = event.data ? event.data.text() : 'no payload';
+
+  var payload = "This is a pampered pal notification";
+
+  // Keep the service worker alive until the notification is created.
+  event.waitUntil(
+    // Show a notification with title 'ServiceWorker Cookbook' and use the payload
+    // as the body.
+    self.registration.showNotification('Pampered Pal', {
+      icon: 'assets/images/pampered-pal-favicon.png',
+      body: payload
+    })
+  );
+});
